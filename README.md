@@ -1,8 +1,8 @@
-<h3 align="left">Greetings! My name's Carl.</h3>
+<h4 align="left">Greetings! My name's Carl.</h4>
 
 ###
 
-<h4 align="left">I'm a retired filmmaker, former field ops specialist for autonomous vehicles, and now software developer studying at [Rithm School](https://github.com/rithmschool/).<br><br>Personal projects:<br>[Jobly](https://www.jobly.carlmolina.com/)<br>[Pixly](https://carl-molina-pixly.onrender.com/)<br>[Plant App](https://carl-molina-plant-app.onrender.com/)</h4>
+<p align="left">I'm a retired filmmaker, former field ops specialist for autonomous vehicles, and now software developer studying at [Rithm School](https://github.com/rithmschool/).<br><br>Personal projects:<br>[Jobly](https://www.jobly.carlmolina.com/)<br>[Pixly](https://carl-molina-pixly.onrender.com/)<br>[Plant App](https://carl-molina-plant-app.onrender.com/)</p>
 
 ###
 
