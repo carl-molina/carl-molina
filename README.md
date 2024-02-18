@@ -5,21 +5,17 @@
 <p align="left">I'm a retired filmmaker, former field ops specialist for autonomous vehicles, and now software developer studying at <a href="https://github.com/rithmschool/">Rithm School</a>.<br>
   
   Personal projects:
-  <br><a href="https://www.jobly.carlmolina.com/">Jobly</a>
-  <br><a href="https://carl-molina-pixly.onrender.com/">Pixly</a>
-  <br><a href="https://carl-molina-plant-app.onrender.com/">Plant App</a></p>
+  <br><a href="https://www.jobly.carlmolina.com/">Jobly</a> 👩🏽‍💼
+  <br><a href="https://carl-molina-pixly.onrender.com/">Pixly</a> 📷
+  <br><a href="https://carl-molina-plant-app.onrender.com/">Plant App</a> 🌱</p>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carl-molina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <h3>Languages and Tools:</h3>
 
