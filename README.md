@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I'm a retired filmmaker, former field ops specialist for autonomous vehicles, and now software developer studying at [Rithm School](https://github.com/rithmschool/).<br><br>Personal projects:<br>[Jobly](https://www.jobly.carlmolina.com/)<br>[Pixly](https://carl-molina-pixly.onrender.com/)<br>[Plant App](https://carl-molina-plant-app.onrender.com/)</h6>
+<h4 align="left">I'm a retired filmmaker, former field ops specialist for autonomous vehicles, and now software developer studying at [Rithm School](https://github.com/rithmschool/).<br><br>Personal projects:<br>[Jobly](https://www.jobly.carlmolina.com/)<br>[Pixly](https://carl-molina-pixly.onrender.com/)<br>[Plant App](https://carl-molina-plant-app.onrender.com/)</h4>
 
 ###
 
@@ -63,5 +63,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
 </div>
-
-###
