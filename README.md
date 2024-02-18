@@ -4,7 +4,7 @@
 
 <p align="left">I'm a retired filmmaker, former field ops specialist for autonomous vehicles, and now software developer studying at <a href="https://github.com/rithmschool/">Rithm School</a>.<br><br>
   
-Currently working on React-TypeScript apps like <br><br>- Personal projects:<br>- jobly<br>- pixly<br>- plant app</p>
+Currently working on React-TypeScript apps like <br><br>- Personal projects:<br>- jobly.carlmolina.com<br>- pixly<br>- plant app</p>
 
 ###
 
