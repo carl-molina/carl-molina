@@ -21,6 +21,8 @@
 
 <br clear="both">
 
+<h3>Languages and Tools:</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" alt="typescript logo"  />
   <img width="7" />
