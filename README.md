@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a retired filmmaker, former field ops specialist for autonomous vehicles, and now software developer studying at <a href="https://github.com/rithmschool/" target="_blank" rel="noopener">Rithm School</a>.<br>
+<p align="left">I'm a retired filmmaker, former field ops specialist for autonomous vehicles, and now software developer studying at <a href="https://github.com/rithmschool/" target="_blank" rel="noopener">Rithm School</a>.<br><br>
   Personal projects:
   <br><a href="https://www.jobly.carlmolina.com/" target="_blank" rel="noopener">Jobly</a>
   <br><a href="https://carl-molina-pixly.onrender.com/" target="_blank" rel="noopener">Pixly</a>
