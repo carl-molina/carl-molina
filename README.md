@@ -6,8 +6,8 @@
   
   Personal projects:
   <br><a href="https://www.jobly.carlmolina.com/">Jobly</a> 👩🏽‍💼
-  <br><a href="https://carl-molina-pixly.onrender.com/">Pixly</a> 📷
-  <br><a href="https://carl-molina-plant-app.onrender.com/">Plant App</a> 🌱</p>
+  <br><a href="https://www.pixly.carlmolina.com/">Pixly</a> 📷
+  <br><a href="https://www.plantapp.carlmolina.com/">Plant App</a> 🌱</p>
 
 ###
 
